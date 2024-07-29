@@ -20,7 +20,7 @@ const another_array = [1, 2, 3, [4, 5, 6], 7, [6, 7, [4, 5]]]
 
 
 
-console.log(Array.isArray("Hitesh"))
+// console.log(Array.isArray("Hitesh"))
 // console.log(Array.from("Hitesh"))
 // console.log(Array.from({name: "hitesh"})) // interesting
 
